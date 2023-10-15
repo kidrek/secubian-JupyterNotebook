@@ -1,0 +1,5 @@
+azure-mgmt-resource
+defang
+emailrep
+msticpy[azure]
+XLMMacroDeobfuscator
